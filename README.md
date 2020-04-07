@@ -16,11 +16,13 @@ Javascript
 <br>
 <br>
 Note-Taker screenshot
+<br>
 ![screenshot ](Develop/public/assets/images/notetaker.jpg)
+<br>
 <br>
 
 
 
-
 application gif
+<br>
 ![gif](Develop/public/assets/images/notetaker.gif)
