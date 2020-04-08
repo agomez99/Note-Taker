@@ -17,7 +17,7 @@ Javascript
 <br>
 Note-Taker screenshot
 <br>
-![screenshot ](Develop/public/assets/images/notetaker.jpg)
+![screenshot ](public/assets/images/notetaker.jpg)
 <br>
 <br>
 
@@ -25,4 +25,4 @@ Note-Taker screenshot
 
 application gif
 <br>
-![gif](Develop/public/assets/images/notetaker.gif)
+![gif](public/assets/images/notetaker.gif)
